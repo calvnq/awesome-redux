@@ -38,7 +38,7 @@
 * [x] [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
 * [x] [Learn how to use Redux step by step](https://github.com/happypoulp/redux-tutorial)
 * [x] [Tutorial: Handcrafting an Isomorphic Redux Application (With Love)](https://medium.com/@bananaoomarang/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4)
-* [ ] [0 to 1 : Getting started with Redux](http://www.jchapron.com/2015/08/14/getting-started-with-redux)
+* [x] [0 to 1 : Getting started with Redux](http://www.jchapron.com/2015/08/14/getting-started-with-redux)
 * [ ] [Redux Chinese Document](https://github.com/camsong/redux-in-chinese)
 * [ ] [Redux Document (Traditional Chinese)](https://github.com/chentsulin/redux)
 * [ ] [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
